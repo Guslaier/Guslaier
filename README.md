@@ -13,11 +13,10 @@ I am a senior Computer Science student at **Rajamangala University of Technology
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** Senior (4th-year) Student, B.Sc. Computer Science @ RMUTK (GPA: 3.89)
-- 🏆 **Achievements:** 
-  - Contestant at **ICPC Thailand National Contest 2025**
+- 🏆 **Achievements:** - Contestant at **ICPC Thailand National Contest 2025**
   - Certified **Information Technology Professional Examination (ITPE, 2024)**
 - 🌱 I’m currently diving deeper into **Advanced Backend Architecture, DevOps, and System Design**.
-- 📫 How to reach me:  | [Email](665021001003@mail.rmutk.ac.th)
+- 📫 How to reach me: [Email](mailto:665021001003@mail.rmutk.ac.th)
 
 ---
 
@@ -73,13 +72,3 @@ A comprehensive MIS built to digitize paper-based currency exchange operations. 
 An e-commerce platform for selling games built using the MVC pattern.
 - **Tech Stack:** Node.js, Express, PostgreSQL, EJS
 - **Key Features:** Custom session authentication, SSR with EJS, relational database management, and checkout processing.
-
-
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guslaier&theme=radical" alt="GitHub Streak" />
-</div>
