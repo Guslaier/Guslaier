@@ -6,7 +6,7 @@
 
 <br />
 
-I am a senior Computer Science student at **Rajamangala University of Technology Krungthep**, passionate about building robust backend systems, full-stack applications, and solving complex problems. Based in Phuket / Bangkok, Thailand 🇹🇭.
+I am a senior Computer Science student at **Rajamangala University of Technology Krungthep**, passionate about building robust backend systems, full-stack applications, and solving complex problems. Based in Bangkok, Thailand 🇹🇭.
 
 ---
 
