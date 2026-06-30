@@ -17,7 +17,7 @@ I am a senior Computer Science student at **Rajamangala University of Technology
   - Contestant at **ICPC Thailand National Contest 2025**
   - Certified **Information Technology Professional Examination (ITPE, 2024)**
 - 🌱 I’m currently diving deeper into **Advanced Backend Architecture, DevOps, and System Design**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-linkedin) | [Email](mailto:your-email@example.com)
+- 📫 How to reach me:  | [Email](665021001003@mail.rmutk.ac.th)
 
 ---
 
